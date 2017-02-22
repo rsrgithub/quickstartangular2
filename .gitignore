@@ -203,6 +203,10 @@ UpgradeLog*.htm
 *.mdf
 *.ldf
 
+# Ignores compiled TypeScript files
+**/app/**/*.map
+**/app/**/*.js
+
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
