@@ -9,6 +9,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   },
+  "compileOnSave": true,
   "exclude": [
     "node_modules",
     "wwwroot"
