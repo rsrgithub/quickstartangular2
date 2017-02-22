@@ -3,7 +3,7 @@
 @Component({
 
     selector: "main-app",
-    template: "<h1>Hello Angular 22</h1>"
+    template: "<h1>Hello Angular 2</h1>"
 })
 export class AppComponent {
     
